@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b0341c5-3877-41d1-a84b-0e7dea0a453a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/memo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memo/memo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memo/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/memo" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hqrBqYaE0c5rrpUie177H2tzpJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AccountMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstructMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstructMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MusicPlayerMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MusicPlayerMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MusicPlayerMain4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductOrderMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductOrderMain3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RectangleOopMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValueDataMain.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="construct" />
+      <recent name="oop1" />
+      <recent name="ref.ex" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value=";" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b0341c5-3877-41d1-a84b-0e7dea0a453a" name="Changes" comment="" />
+      <created>1718332317426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718332317426</updated>
+    </task>
+    <servers />
+  </component>
+</project>
