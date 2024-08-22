@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b0341c5-3877-41d1-a84b-0e7dea0a453a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/memo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memo/memo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memo/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/memo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
