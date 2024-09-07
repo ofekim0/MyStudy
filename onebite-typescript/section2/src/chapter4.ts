@@ -30,7 +30,7 @@ let countryCodes: CountryCodes = {
 
 // Korea 속성을 반드시 가지도록 설정 : 인덱스 시그니처의 value 타입과 같지 않으면 문제 발생
 type CountryNumberCodes = {
-  [key : number] : number;
+  [key : string] : number;
   Korea: number;
 }
 
