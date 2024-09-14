@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a140ee1-9aa5-4ed3-b545-f619e396ff4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-mid2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="6a140ee1-9aa5-4ed3-b545-f619e396ff4a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,12 +18,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2lk5LaqMtdg34CfuG7IZX18IaWX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -41,12 +33,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnimalHospitalMainV0.executor": "Run",
     "Application.AnimalMain1.executor": "Run",
     "Application.AnimalMain2.executor": "Run",
     "Application.BoxMain2.executor": "Run",
     "Application.ContainterTest.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MethodMain1.executor": "Run",
+    "Application.MethodMain2.executor": "Run",
+    "Application.MethodMain3.executor": "Run",
     "Application.PairTest.executor": "Run",
+    "Application.WildcardMain1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/이정준/Desktop/java/java-mid2/src/generic/test/ex2",
@@ -54,17 +51,24 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="generic.ex4" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\이정준\Desktop\java\java-mid2\src\generic\test\ex2" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="generic.ex3" />
+      <recent name="generic.test.ex3" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.PairTest">
-    <configuration name="AnimalMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.ex2.AnimalMain1" />
+  <component name="RunManager" selected="Application.WildcardMain1">
+    <configuration name="AnimalHospitalMainV0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.ex3.AnimalHospitalMainV0" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.ex2.*" />
+          <option name="PATTERN" value="generic.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnimalMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.ex2.AnimalMain2" />
+    <configuration name="MethodMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.ex4.MethodMain1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.ex2.*" />
+          <option name="PATTERN" value="generic.ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoxMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.ex1.BoxMain2" />
+    <configuration name="MethodMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.ex4.MethodMain2" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.ex1.*" />
+          <option name="PATTERN" value="generic.ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.test.ex1.ContainterTest" />
+    <configuration name="MethodMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.ex4.MethodMain3" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.test.ex1.*" />
+          <option name="PATTERN" value="generic.ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PairTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.test.ex2.PairTest" />
+    <configuration name="WildcardMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.ex5.WildcardMain1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.test.ex2.*" />
+          <option name="PATTERN" value="generic.ex5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PairTest" />
-        <item itemvalue="Application.ContainterTest" />
-        <item itemvalue="Application.AnimalMain2" />
-        <item itemvalue="Application.AnimalMain1" />
-        <item itemvalue="Application.BoxMain2" />
+        <item itemvalue="Application.WildcardMain1" />
+        <item itemvalue="Application.MethodMain3" />
+        <item itemvalue="Application.MethodMain2" />
+        <item itemvalue="Application.MethodMain1" />
+        <item itemvalue="Application.AnimalHospitalMainV0" />
       </list>
     </recent_temporary>
   </component>
